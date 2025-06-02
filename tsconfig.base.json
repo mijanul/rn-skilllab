@@ -2,7 +2,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@rn-skilllab/*": ["packages/*"]
+      "@rn-skilllab/ui": ["packages/ui"],
+      "@rn-skilllab/utils": ["packages/utils"],
+      "@rn-skilllab/types": ["packages/types"]
     },
     "target": "es2017",
     "lib": ["dom", "dom.iterable", "esnext"],

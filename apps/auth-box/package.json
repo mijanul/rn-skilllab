@@ -1,5 +1,5 @@
 {
-  "name": "@rn-skilllab/ui",
+  "name": "@rn-skilllab/auth-box",
   "version": "1.0.0",
   "private": true,
   "scripts": {
